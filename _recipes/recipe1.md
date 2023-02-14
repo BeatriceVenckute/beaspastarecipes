@@ -1,46 +1,26 @@
 ---
-layout: recipe
-title: Some recipe
+title: Prawn pasta
 date: 2022-10-19
-published: true
 order: 2
+layout: recipe
+published: true
 ---
-Aute velit minim ad ut deserunt ipsum eiusmod. Laborum nisi ex qui exercitation elit dolor consectetur. Ullamco ex eiusmod ad dolor nisi adipisicing est esse. Veniam nostrud do laboris id est nulla qui nulla. Lorem velit nulla in tempor nisi laboris. Dolor culpa mollit elit anim minim Lorem.
+Indulge in a plate of delicious prawn pasta that's quick and easy to make. Perfect for a cozy weeknight dinner or a special occasion, this dish is sure to satisfy your cravings and impress your guests.
 
-![Delicious Plate of Toast, Blueberries and Bananas, covered in sticky maple syrup](../uploads/joseph-gonzalez-zcUgjyqEwe8-unsplash.jpg "Photo by Joseph Smart")
-
+![Prawn pasta](../uploads/craiyon_150410_prawn_pasta.png "Prawn pasta")
 
 ## Ingredients
 
-- 1 kg something or something else
-- 160 ml something or something else
-- ½ large something or something else
-- 450 grams something or something else
-- 1 glass white wine 
-- 350 grams fresh something or something else,
-- 1400 grams something or something else, drained of some of their juice and chopped
-- teaspoon ground something or something else
-- teaspoon ground something or something else
-- salt and black pepper
-- 1 teaspoon oregano
-- 25 grams grated Parmesan, Kefalotiri, or Gruyere cheese
-- some chopped something
-- 80 grams something
-- 80 grams something else
-- 600 ml warm something
-- 2 egg yolks
-- 4 tablespoons toasted something or something else
-
+* 200 g linguine or spaghetti;
+* 25 g butter;
+* 200 g raw peeled prawn, preferably tiger prawns;
+* 1 garlic clove, crushed;
+* 100 ml white wine;
+* Squeeze lemon juice;
+* Small handful flat-leaf parsley, roughly chopped.
 
 ## Method
 
-Occaecat nulla proident do aute non amet cillum et enim. Non in commodo consequat minim. Id excepteur adipisicing cillum minim Lorem anim est eiusmod incididunt. Consectetur nostrud pariatur amet enim dolore labore deserunt tempor magna fugiat dolor veniam anim. Ut ex sit ullamco ullamco magna aliqua cupidatat ullamco adipisicing tempor. Cupidatat fugiat in consectetur quis sunt laboris qui veniam sunt id deserunt minim.
+STEP 1: Cook the pasta in a large pan of boiling, salted water according to pack instructions. Meanwhile, heat a small knob of the butter in a frying pan. When it starts to sizzle, add the prawns and fry for 1 min until they start to change colour. Add the garlic and sizzle for 1 min more, splash in the wine, then bring to the boil. Swirl in the rest of the butter, season with salt and pepper and a squeeze of lemon juice, then stir in the chopped parsley.
 
-Laborum dolore minim veniam excepteur aliquip aliqua mollit minim id exercitation ipsum. Quis sint qui enim labore amet irure culpa eiusmod ullamco amet minim aliquip ut eiusmod. Qui Lorem dolore labore esse reprehenderit cillum reprehenderit.
-
-Do elit laboris irure pariatur nostrud officia. Proident anim amet officia irure occaecat aliqua nisi ex. Non minim excepteur consectetur mollit aliquip ad occaecat est velit. Enim laboris mollit reprehenderit cupidatat voluptate ipsum aliquip nostrud deserunt amet. Qui aliquip deserunt commodo pariatur qui anim. Aliquip excepteur reprehenderit in sint enim Lorem non Lorem pariatur adipisicing dolore ullamco incididunt ullamco.
-
-Cupidatat nostrud excepteur sunt exercitation excepteur dolor adipisicing. Aliqua et commodo do duis fugiat non consequat duis. Esse velit velit sit aute voluptate exercitation cupidatat velit cupidatat duis culpa non duis deserunt. Non voluptate et ea incididunt elit irure eu irure ullamco ea Lorem tempor. Veniam sint irure reprehenderit mollit nisi amet fugiat nulla duis. Nulla nostrud sint reprehenderit est enim dolore ipsum. Sint eu anim excepteur consectetur ipsum.
-
-- Serves: 6
-- Preparation time: 1 hour
+STEP 2: When the pasta is just cooked, drain and toss through the prawns. Divide the pasta between 2 bowls, pour over any excess sauce and serve straightaway.
