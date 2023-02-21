@@ -1,6 +1,6 @@
 ---
 title: Bea's pasta recipes
-coverimage: ../uploads/bookcover.jpg
+coverimage: ../uploads/bea-s-pasta-recipes.jpg
 permalink: /
 layout: recipeshome
 published: true
